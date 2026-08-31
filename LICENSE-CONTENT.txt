@@ -1,0 +1,22 @@
+THE GREAT SOFTWARE QUEST — CONTENT LICENSE
+
+Copyright (c) 2026 A.R.Cabornay
+
+Except where a source, quotation, standard, or third-party item is separately
+identified, the original educational writing and original non-code content in
+The Great Software Quest are licensed under the Creative Commons Attribution
+4.0 International License (CC BY 4.0).
+
+You may share and adapt the material for any purpose if you give appropriate
+credit to A.R.Cabornay, provide a link to the license, and indicate whether
+changes were made. You may not imply endorsement.
+
+License summary and legal code:
+https://creativecommons.org/licenses/by/4.0/
+
+Suggested attribution:
+"The Great Software Quest: Building Software People Love and Trust" by
+A.R.Cabornay, licensed under CC BY 4.0.
+
+Quoted Bible passages are identified as KJV. Linked standards, research, and
+external sources remain subject to their respective owners' terms.
